@@ -1,0 +1,43 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.container-fluid{
+    background-color: #F04688;
+    color:#fff;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.container-fluid img{
+    width:40%;
+    padding-bottom: 30px;
+}
+
+.container-fluid h1{
+    font-family: sans-serif;
+    font-weight: bolder;
+    padding-bottom: 30px;
+}
+
+#btn-1{
+    background-color: #F04688;
+    border:none;
+}
+
+#btn-2{
+    background-color: #fff;
+    color: #F04688;
+    border:none;
+    border-radius: 25px;
+    padding: 15px;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #3f3f3f;
+}
